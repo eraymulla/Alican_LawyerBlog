@@ -131,9 +131,9 @@ export default function Home() {
           <div className="relative text-center">
             <span className="material-symbols-outlined text-primary text-6xl opacity-50">format_quote</span>
             <blockquote className="text-text-light dark:text-text-dark text-xl md:text-2xl italic font-display mt-4 mb-6">
-              "Bu hukuk bürosuyla çalışmak işletmemiz için bir oyun değiştiriciydi. Stratejik tavsiyeleri 
+              &ldquo;Bu hukuk bürosuyla çalışmak işletmemiz için bir oyun değiştiriciydi. Stratejik tavsiyeleri 
               ve titiz dikkatleri, karmaşık bir birleşmeyi yönetmede çok önemliydi. Her adımda desteklendiğimizi 
-              ve güvende olduğumuzu hissettik."
+              ve güvende olduğumuzu hissettik.&rdquo;
             </blockquote>
             <footer className="text-text-muted-light dark:text-text-muted-dark font-bold text-lg">
               - Müvekkil, İşletme Sahibi

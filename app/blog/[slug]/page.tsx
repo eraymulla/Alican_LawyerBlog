@@ -117,7 +117,7 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
           href="/blog"
           className="text-primary-600 hover:text-primary-700 mb-6 inline-block"
         >
-          ← Blog'a Dön
+          ← Blog&apos;a Dön
         </Link>
         
         <article className="bg-white p-8 rounded-lg shadow-md">

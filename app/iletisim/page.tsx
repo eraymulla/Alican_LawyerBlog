@@ -115,6 +115,7 @@ export default function ContactPage() {
             {/* Map */}
             <div className="mt-4">
               <div className="aspect-w-16 aspect-h-9 w-full rounded-xl overflow-hidden border border-gray-200 dark:border-gray-700">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   className="w-full h-full object-cover"
                   alt="Harita"
@@ -221,7 +222,7 @@ export default function ContactPage() {
                     <Link href="#" className="font-medium text-primary hover:underline">
                       Gizlilik Politikası
                     </Link>
-                    'nı kabul etmiş olursunuz.
+                    &apos;nı kabul etmiş olursunuz.
                   </p>
                 </div>
               </div>
