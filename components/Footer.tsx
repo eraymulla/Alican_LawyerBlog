@@ -17,7 +17,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li><Link href="/hakkimda" className="text-text-muted-dark hover:text-primary transition-colors">Hakkımda</Link></li>
               <li><Link href="/hizmetler" className="text-text-muted-dark hover:text-primary transition-colors">Hizmetler</Link></li>
-              <li><Link href="/ekibimiz" className="text-text-muted-dark hover:text-primary transition-colors">Ekibimiz</Link></li>
+              <li><Link href="/blog" className="text-text-muted-dark hover:text-primary transition-colors">Blog</Link></li>
               <li><Link href="/iletisim" className="text-text-muted-dark hover:text-primary transition-colors">İletişim</Link></li>
             </ul>
           </div>
@@ -33,7 +33,7 @@ export default function Footer() {
           </div>
           
           <div>
-            <h3 className="text-lg font-bold font-display mb-4">Bizi Takip Edin</h3>
+            <h3 className="text-lg font-bold font-display mb-4">Beni Takip Edin</h3>
             <div className="flex space-x-4">
               <a className="text-text-muted-dark hover:text-primary transition-colors" href="#">
                 <svg aria-hidden="true" className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">

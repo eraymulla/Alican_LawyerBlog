@@ -13,17 +13,17 @@ const testimonials = [
     role: "Birleşme ve Satın Alma",
   },
   {
-    quote: "Ekibin adanmışlığı ve stratejik yaklaşımı davamızda çok önemliydi. Gerçekten olağanüstü bir büro. Şiddetle tavsiye edilir.",
+    quote: "Av. Ali Can Yılmaztürk&apos;ün adanmışlığı ve stratejik yaklaşımı davamızda çok önemliydi. Gerçekten olağanüstü bir avukat. Şiddetle tavsiye edilir.",
     author: "J.D.",
     role: "İş Hukuku Müvekkili",
   },
   {
-    quote: "Fikri mülkiyet alanındaki uzmanlıkları eşsiz. Varlıklarımızı titizlik ve hassasiyetle korudular.",
+    quote: "Fikri mülkiyet alanındaki uzmanlığı eşsiz. Varlıklarımızı titizlik ve hassasiyetle korudu.",
     author: "S.P.",
     role: "Fikri Mülkiyet",
   },
   {
-    quote: "Tüm süreç boyunca desteklendiğimi ve dinlendiğimi hissettim. Şefkatli yaklaşımları zor bir durumu yönetilebilir hale getirdi.",
+    quote: "Tüm süreç boyunca desteklendiğimi ve dinlendiğimi hissettim. Şefkatli yaklaşımı zor bir durumu yönetilebilir hale getirdi.",
     author: "L.C.",
     role: "Aile Hukuku Müvekkili",
   },
@@ -111,7 +111,7 @@ export default function TestimonialsPage() {
             <span className="block">Davanızı Tartışmaya Hazır mısınız?</span>
           </h2>
           <p className="mt-4 text-lg leading-6 text-off-white/80">
-            Deneyimimiz rehberiniz olsun. Gizli bir danışmanlık için bugün bizimle iletişime geçin.
+            Deneyimim rehberiniz olsun. Gizli bir danışmanlık için bugün benimle iletişime geçin.
           </p>
           <Link href="/iletisim">
             <button className="mt-8 flex w-full sm:w-auto mx-auto min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-6 bg-primary text-navy text-base font-bold leading-normal tracking-[0.015em] hover:bg-opacity-90 transition-opacity">

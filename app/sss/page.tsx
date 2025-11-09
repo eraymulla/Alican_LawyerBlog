@@ -36,8 +36,8 @@ export default function FAQPage() {
                   </div>
                 </summary>
                 <p className="text-text-muted-light dark:text-text-muted-dark text-base font-normal leading-normal pb-2 pt-2">
-                  Ofisimizi doğrudan arayarak veya web sitemizdeki iletişim formunu doldurarak bir danışmanlık 
-                  planlayabilirsiniz. Ekibimiz size uygun bir zaman ayarlamak için kısa süre içinde size dönüş yapacaktır.
+                  Beni doğrudan arayarak veya web sitemdeki iletişim formunu doldurarak bir danışmanlık 
+                  planlayabilirsiniz. Size uygun bir zaman ayarlamak için kısa süre içinde size dönüş yapacağım.
                 </p>
               </details>
 
@@ -67,7 +67,7 @@ export default function FAQPage() {
                   </div>
                 </summary>
                 <p className="text-text-muted-light dark:text-text-muted-dark text-base font-normal leading-normal pb-2 pt-2">
-                  Kesinlikle. Danışmanlığınız sırasındaki tüm iletişimler, büromuzu işe alıp almayacağınıza bakılmaksızın, 
+                  Kesinlikle. Danışmanlığınız sırasındaki tüm iletişimler, beni işe alıp almayacağınıza bakılmaksızın, 
                   avukat-müvekkil ayrıcalığı ile korunur ve tam gizlilik sağlanır.
                 </p>
               </details>
@@ -83,14 +83,14 @@ export default function FAQPage() {
               <details className="flex flex-col border-b border-b-primary/10 dark:border-b-accent/20 py-3 group">
                 <summary className="flex cursor-pointer list-none items-center justify-between gap-6 py-2">
                   <p className="font-display text-lg font-medium leading-normal text-primary dark:text-secondary">
-                    Büro hizmetleri için nasıl ücret alıyor?
+                    Hizmetleriniz için nasıl ücret alıyorsunuz?
                   </p>
                   <div className="text-accent group-open:rotate-180 transition-transform">
                     <span className="material-symbols-outlined">expand_more</span>
                   </div>
                 </summary>
                 <p className="text-text-muted-light dark:text-text-muted-dark text-base font-normal leading-normal pb-2 pt-2">
-                  Dava niteliğine bağlı olarak çeşitli ücret yapıları sunuyoruz, saatlik ücretler, sabit ücretler ve 
+                  Dava niteliğine bağlı olarak çeşitli ücret yapıları sunuyorum, saatlik ücretler, sabit ücretler ve 
                   başarı ücreti dahil. İlk danışmanlık sırasında sizin için en uygun seçeneği tartışacağız.
                 </p>
               </details>
@@ -105,9 +105,9 @@ export default function FAQPage() {
                   </div>
                 </summary>
                 <p className="text-text-muted-light dark:text-text-muted-dark text-base font-normal leading-normal pb-2 pt-2">
-                  Birçok dava için, bir güven hesabında tutulan bir avans ödemesi olan bir avans gerektiririz. 
+                  Birçok dava için, bir güven hesabında tutulan bir avans ödemesi olan bir avans gerektiririm. 
                   Hukuki ücretler ve masraflar daha sonra bu avanstan düşülür. Tam şeffaflık için ayrıntılı aylık 
-                  faturalar sağlıyoruz.
+                  faturalar sağlıyorum.
                 </p>
               </details>
             </div>
@@ -131,7 +131,7 @@ export default function FAQPage() {
                 <p className="text-text-muted-light dark:text-text-muted-dark text-base font-normal leading-normal pb-2 pt-2">
                   Bir hukuki davanın süresi, karmaşıklığına, mahkemenin programına ve karşı tarafın işbirliğine bağlı 
                   olarak önemli ölçüde değişir. Size tahmini bir zaman çizelgesi sağlayacak ve herhangi bir gelişmeden 
-                  sizi haberdar edeceğiz.
+                  sizi haberdar edeceğim.
                 </p>
               </details>
 
@@ -145,8 +145,8 @@ export default function FAQPage() {
                   </div>
                 </summary>
                 <p className="text-text-muted-light dark:text-text-muted-dark text-base font-normal leading-normal pb-2 pt-2">
-                  Açık iletişimi sürdürmeye bağlıyız. Avukatınızdan telefon veya e-posta yoluyla düzenli güncellemeler 
-                  alacaksınız ve davanızın durumu hakkında her zaman sorularınızı yanıtlamak için hazırız.
+                  Açık iletişimi sürdürmeye bağlıyım. Telefon veya e-posta yoluyla düzenli güncellemeler 
+                  alacaksınız ve davanızın durumu hakkında her zaman sorularınızı yanıtlamak için hazırım.
                 </p>
               </details>
             </div>
@@ -159,8 +159,8 @@ export default function FAQPage() {
             Farklı Bir Sorunuz mu Var?
           </h2>
           <p className="text-text-muted-light dark:text-text-muted-dark mb-6 max-w-xl mx-auto">
-            Ekibimiz ihtiyacınız olan yanıtları ve rehberliği sağlamaya hazır. Kişiselleştirilmiş ve gizli bir 
-            danışmanlık için bize ulaşın.
+            İhtiyacınız olan yanıtları ve rehberliği sağlamaya hazırım. Kişiselleştirilmiş ve gizli bir 
+            danışmanlık için bana ulaşın.
           </p>
           <Link href="/iletisim">
             <button className="flex mx-auto min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-6 bg-primary dark:bg-accent text-secondary dark:text-primary text-base font-bold leading-normal tracking-[0.015em] hover:opacity-90">

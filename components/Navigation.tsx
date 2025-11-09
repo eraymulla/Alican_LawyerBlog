@@ -10,8 +10,12 @@ export default function Navigation() {
     <header className="sticky top-0 z-50 bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-sm border-b border-border-light dark:border-border-dark">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link href="/" className="flex items-center gap-4 text-text-light dark:text-text-dark">
-            <span className="material-symbols-outlined text-primary text-3xl">gavel</span>
+          <Link href="/" className="flex items-center gap-3 text-text-light dark:text-text-dark">
+            <img 
+              src="/logo.svg" 
+              alt="Av. Ali Can Yılmaztürk Logo" 
+              className="h-10 w-10"
+            />
             <h2 className="text-xl font-bold tracking-tighter font-display">Av. Ali Can Yılmaztürk</h2>
           </Link>
           
@@ -26,9 +30,6 @@ export default function Navigation() {
               </Link>
               <Link href="/hizmetler" className="text-text-light dark:text-text-dark text-sm font-medium leading-normal hover:text-primary dark:hover:text-primary transition-colors">
                 Hizmetler
-              </Link>
-              <Link href="/ekibimiz" className="text-text-light dark:text-text-dark text-sm font-medium leading-normal hover:text-primary dark:hover:text-primary transition-colors">
-                Ekibimiz
               </Link>
               <Link href="/blog" className="text-text-light dark:text-text-dark text-sm font-medium leading-normal hover:text-primary dark:hover:text-primary transition-colors">
                 Blog
@@ -86,13 +87,6 @@ export default function Navigation() {
               onClick={() => setIsOpen(false)}
             >
               Hizmetler
-            </Link>
-            <Link
-              href="/ekibimiz"
-              className="block text-text-light dark:text-text-dark hover:text-primary transition-colors"
-              onClick={() => setIsOpen(false)}
-            >
-              Ekibimiz
             </Link>
             <Link
               href="/blog"

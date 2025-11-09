@@ -16,7 +16,7 @@ export default function AboutPage() {
               Mükemmellik Mirası
             </h1>
             <h2 className="text-secondary/90 text-lg font-normal leading-normal">
-              Elli yılı aşkın süredir müvekkillerimize eşsiz hukuk uzmanlığı ve sarsılmaz bağlılık sunmaya adanmış.
+              Yılların deneyimiyle müvekkillerime eşsiz hukuk uzmanlığı ve sarsılmaz bağlılık sunmaya adanmış.
             </h2>
           </div>
         </div>
@@ -26,14 +26,14 @@ export default function AboutPage() {
       <section className="py-16 sm:py-24">
         <div className="container mx-auto max-w-4xl px-6 text-center">
           <h2 className="font-display text-4xl font-bold leading-tight tracking-tight text-text-light dark:text-secondary">
-            Misyonumuz & Vizyonumuz
+            Misyonum & Vizyonum
           </h2>
           <div className="mx-auto mt-4 h-1 w-20 bg-accent"></div>
           <p className="mt-8 text-lg font-normal leading-relaxed">
-            Misyonumuz, bütünlük, profesyonellik ve müvekkillerimizin ihtiyaçlarını derinlemesine anlayarak 
+            Misyonum, bütünlük, profesyonellik ve müvekkillerimin ihtiyaçlarını derinlemesine anlayarak 
             olağanüstü hukuk hizmetleri sunmaktır. Titiz analiz, stratejik düşünce ve amansız savunuculuk 
-            yoluyla mümkün olan en iyi sonuçları elde etmeye çalışıyoruz, güven ve karşılıklı saygıya dayalı 
-            kalıcı ilişkiler kuruyoruz.
+            yoluyla mümkün olan en iyi sonuçları elde etmeye çalışıyorum, güven ve karşılıklı saygıya dayalı 
+            kalıcı ilişkiler kuruyorum.
           </p>
         </div>
       </section>
@@ -43,7 +43,7 @@ export default function AboutPage() {
         <div className="container mx-auto max-w-5xl px-6">
           <div className="text-center">
             <h2 className="font-display text-4xl font-bold leading-tight tracking-tight text-text-light dark:text-secondary">
-              Değerlerimiz
+              Değerlerim
             </h2>
             <div className="mx-auto mt-4 h-1 w-20 bg-accent"></div>
           </div>
@@ -56,7 +56,7 @@ export default function AboutPage() {
                 Bütünlük
               </h3>
               <p className="mt-2 text-base leading-relaxed">
-                Yaptığımız her eylemde ve verdiğimiz her tavsiyede en yüksek etik standartları koruyoruz.
+                Yaptığım her eylemde ve verdiğim her tavsiyede en yüksek etik standartları koruyorum.
               </p>
             </div>
             <div className="flex flex-col items-center text-center p-6">
@@ -67,7 +67,7 @@ export default function AboutPage() {
                 Adanmışlık
               </h3>
               <p className="mt-2 text-base leading-relaxed">
-                Müvekkillerimizin davalarına tüm kalbimizle bağlanıyor, yorulmak bilmeyen savunuculuk ve destek sunuyoruz.
+                Müvekkillerimin davalarına tüm kalbimle bağlanıyor, yorulmak bilmeyen savunuculuk ve destek sunuyorum.
               </p>
             </div>
             <div className="flex flex-col items-center text-center p-6">
@@ -78,7 +78,7 @@ export default function AboutPage() {
                 Yenilik
               </h3>
               <p className="mt-2 text-base leading-relaxed">
-                Karmaşık zorlukları çözmek için yaratıcı hukuk stratejileri ve modern yaklaşımlar kullanıyoruz.
+                Karmaşık zorlukları çözmek için yaratıcı hukuk stratejileri ve modern yaklaşımlar kullanıyorum.
               </p>
             </div>
           </div>
@@ -90,7 +90,7 @@ export default function AboutPage() {
         <div className="container mx-auto max-w-4xl px-6">
           <div className="text-center">
             <h2 className="font-display text-4xl font-bold leading-tight tracking-tight text-text-light dark:text-secondary">
-              Tarihimiz
+              Kariyerim
             </h2>
             <div className="mx-auto mt-4 h-1 w-20 bg-accent"></div>
           </div>
@@ -101,7 +101,7 @@ export default function AboutPage() {
                 <div className="w-2/5">
                   <div className="text-right">
                     <h4 className="font-bold text-lg text-text-light dark:text-secondary">2010</h4>
-                    <p className="mt-1">Hukuk bürosu kuruldu ve topluma hizmet vizyonuyla yola çıktı.</p>
+                    <p className="mt-1">Hukuk fakültesinden mezun oldum ve avukatlık mesleğine başladım.</p>
                   </div>
                 </div>
                 <div className="relative z-10 flex h-4 w-4 items-center justify-center rounded-full bg-accent ring-4 ring-background-light dark:ring-background-dark"></div>
@@ -115,7 +115,7 @@ export default function AboutPage() {
                 <div className="w-2/5">
                   <div className="text-left">
                     <h4 className="font-bold text-lg text-text-light dark:text-secondary">2015</h4>
-                    <p className="mt-1">İş hukuku alanında genişleme, yeni ortakların katılımı.</p>
+                    <p className="mt-1">İş hukuku alanında uzmanlaştım ve bu alanda derinlemesine çalışmaya başladım.</p>
                   </div>
                 </div>
               </div>
@@ -125,7 +125,7 @@ export default function AboutPage() {
                 <div className="w-2/5">
                   <div className="text-right">
                     <h4 className="font-bold text-lg text-text-light dark:text-secondary">2020</h4>
-                    <p className="mt-1">Fikri mülkiyet hukukunda yeni bir emsal oluşturan önemli bir dava kazanıldı.</p>
+                    <p className="mt-1">Fikri mülkiyet hukukunda yeni bir emsal oluşturan önemli bir dava kazandım.</p>
                   </div>
                 </div>
                 <div className="relative z-10 flex h-4 w-4 items-center justify-center rounded-full bg-accent ring-4 ring-background-light dark:ring-background-dark"></div>
@@ -139,7 +139,7 @@ export default function AboutPage() {
                 <div className="w-2/5">
                   <div className="text-left">
                     <h4 className="font-bold text-lg text-text-light dark:text-secondary">2024</h4>
-                    <p className="mt-1">Adalet ve müvekkil başarısına sarsılmaz bağlılığın 14 yılını kutluyoruz.</p>
+                    <p className="mt-1">Adalet ve müvekkil başarısına sarsılmaz bağlılığımın 14 yılını kutluyorum.</p>
                   </div>
                 </div>
               </div>
@@ -148,34 +148,30 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* Meet Our Leadership */}
+      {/* About Me */}
       <section className="bg-secondary dark:bg-primary py-16 sm:py-24">
         <div className="container mx-auto max-w-5xl px-6">
           <div className="text-center">
             <h2 className="font-display text-4xl font-bold leading-tight tracking-tight text-text-light dark:text-secondary">
-              Liderliğimizle Tanışın
+              Hakkımda
             </h2>
             <div className="mx-auto mt-4 h-1 w-20 bg-accent"></div>
             <p className="mt-6 max-w-2xl mx-auto text-lg">
-              Büromuz, onlarca yıllık birleşik deneyime ve adalete ortak bir tutkuya sahip seçkin hukuk 
-              profesyonellerinden oluşan bir ekip tarafından yönetilmektedir.
+              Yılların deneyimiyle, müvekkillerime en iyi hukuki danışmanlığı sunmak ve adaletin tecellisi için 
+              çalışmaktayım. Her dava için özenle hazırlanır, müvekkillerimin haklarını en iyi şekilde korumak için 
+              çaba gösteririm.
             </p>
           </div>
-          <div className="mt-12 grid grid-cols-1 gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-12 flex justify-center">
             <div className="text-center">
               <div className="mx-auto h-48 w-48 rounded-full bg-primary/20 flex items-center justify-center text-6xl text-primary mb-4">
                 ACY
               </div>
               <h4 className="mt-6 font-display text-xl font-bold text-text-light dark:text-secondary">
-                Ali Can Yılmaztürk
+                Av. Ali Can Yılmaztürk
               </h4>
-              <p className="text-accent">Kurucu Avukat</p>
+              <p className="text-accent">Avukat</p>
             </div>
-          </div>
-          <div className="mt-12 text-center">
-            <Link href="/ekibimiz" className="inline-block rounded-lg border-2 border-primary dark:border-accent px-8 py-3 text-sm font-bold uppercase tracking-wider text-primary dark:text-accent hover:bg-primary hover:text-secondary dark:hover:bg-accent dark:hover:text-primary transition-colors">
-              Tüm Ekibi Görüntüle
-            </Link>
           </div>
         </div>
       </section>
@@ -187,7 +183,7 @@ export default function AboutPage() {
             Davanızı Tartışmaya Hazır mısınız?
           </h2>
           <p className="mt-4 text-lg font-normal leading-relaxed text-secondary/80">
-            Deneyimimiz rehberiniz olsun. Bugün hukuki seçeneklerinizi keşfetmek için ekibimizle gizli bir 
+            Deneyimim rehberiniz olsun. Bugün hukuki seçeneklerinizi keşfetmek için benimle gizli bir 
             danışmanlık planlayın.
           </p>
           <div className="mt-8">

@@ -27,10 +27,10 @@ export default function Home() {
       <div className="bg-background-light dark:bg-background-dark py-16 sm:py-24">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-text-muted-light dark:text-text-muted-dark text-lg mb-8">
-            Onlarca yıllık birleşik deneyimle, Av. Ali Can Yılmaztürk geniş bir yelpazede 
-            eşsiz hukuk uzmanlığı sunmaktadır. Müvekkillerimiz için mümkün olan en iyi sonuçları 
+            Yılların deneyimiyle, Av. Ali Can Yılmaztürk geniş bir yelpazede 
+            eşsiz hukuk uzmanlığı sunmaktadır. Müvekkillerim için mümkün olan en iyi sonuçları 
             elde etmeye, titiz temsil, stratejik danışmanlık ve sarsılmaz adanmışlık yoluyla 
-            bağlıyız.
+            bağlıyım.
           </p>
           <Link href="/iletisim">
             <button className="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-6 bg-primary text-[#0A2342] text-base font-bold leading-normal tracking-wide mx-auto hover:opacity-90 transition-opacity">
@@ -93,30 +93,33 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Team Section */}
+      {/* About Preview Section */}
       <div className="bg-background-light dark:bg-background-dark py-16 sm:py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-text-light dark:text-text-dark text-3xl md:text-4xl font-bold leading-tight tracking-tighter font-display">
-              Uzmanlarımızla Tanışın
+              Hakkımda
             </h2>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 text-center">
-            <div className="flex flex-col items-center">
-              <div className="h-40 w-40 rounded-full bg-primary/20 flex items-center justify-center text-6xl text-primary mb-4">
+          <div className="max-w-3xl mx-auto">
+            <div className="flex flex-col items-center text-center">
+              <div className="h-40 w-40 rounded-full bg-primary/20 flex items-center justify-center text-6xl text-primary mb-6">
                 ACY
               </div>
-              <h3 className="text-text-light dark:text-text-dark text-xl font-bold font-display">
-                Ali Can Yılmaztürk
+              <h3 className="text-text-light dark:text-text-dark text-2xl font-bold font-display mb-4">
+                Av. Ali Can Yılmaztürk
               </h3>
-              <p className="text-text-muted-light dark:text-text-muted-dark">Kurucu Avukat</p>
+              <p className="text-text-muted-light dark:text-text-muted-dark text-lg mb-6">
+                Hukuk alanında uzun yıllardır hizmet vermekteyim. Müvekkillerime en iyi 
+                hukuki danışmanlığı sunmak ve adaletin tecellisi için çalışmaktayım.
+              </p>
+              <Link href="/hakkimda">
+                <button className="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-6 bg-primary text-[#0A2342] text-base font-bold leading-normal tracking-wide hover:opacity-90 transition-opacity">
+                  <span className="truncate">Daha Fazla Bilgi</span>
+                </button>
+              </Link>
             </div>
           </div>
-          <Link href="/ekibimiz">
-            <p className="text-primary text-base font-semibold leading-normal pt-8 text-center underline cursor-pointer">
-              Ekibi Görüntüle
-            </p>
-          </Link>
         </div>
       </div>
 
@@ -131,8 +134,8 @@ export default function Home() {
           <div className="relative text-center">
             <span className="material-symbols-outlined text-primary text-6xl opacity-50">format_quote</span>
             <blockquote className="text-text-light dark:text-text-dark text-xl md:text-2xl italic font-display mt-4 mb-6">
-              &ldquo;Bu hukuk bürosuyla çalışmak işletmemiz için bir oyun değiştiriciydi. Stratejik tavsiyeleri 
-              ve titiz dikkatleri, karmaşık bir birleşmeyi yönetmede çok önemliydi. Her adımda desteklendiğimizi 
+              &ldquo;Av. Ali Can Yılmaztürk ile çalışmak işletmemiz için bir oyun değiştiriciydi. Stratejik tavsiyeleri 
+              ve titiz dikkati, karmaşık bir birleşmeyi yönetmede çok önemliydi. Her adımda desteklendiğimizi 
               ve güvende olduğumuzu hissettik.&rdquo;
             </blockquote>
             <footer className="text-text-muted-light dark:text-text-muted-dark font-bold text-lg">

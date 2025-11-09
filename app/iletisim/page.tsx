@@ -41,7 +41,7 @@ export default function ContactPage() {
             İletişime Geçin
           </h1>
           <p className="mt-4 max-w-2xl mx-auto text-subtle-light dark:text-subtle-dark text-lg font-normal leading-normal">
-            Yardımcı olmak için buradayız. Uzman hukuk ekibimizle davanızı tartışmak için bize ulaşın.
+            Yardımcı olmak için buradayım. Davanızı tartışmak için bana ulaşın.
           </p>
         </div>
 
@@ -128,10 +128,10 @@ export default function ContactPage() {
           {/* Right Column: Contact Form */}
           <div className="bg-white dark:bg-gray-800/50 p-8 sm:p-10 rounded-xl shadow-lg border border-gray-200 dark:border-gray-700">
             <h3 className="text-primary dark:text-white text-2xl font-bold font-display tracking-tight mb-2">
-              Bize Mesaj Gönderin
+              Bana Mesaj Gönderin
             </h3>
             <p className="text-subtle-light dark:text-subtle-dark mb-8 text-sm">
-              Aşağıdaki formu doldurun, kısa süre içinde size dönüş yapacağız.
+              Aşağıdaki formu doldurun, kısa süre içinde size dönüş yapacağım.
             </p>
             <form action="#" className="space-y-6" method="POST" onSubmit={handleSubmit}>
               <div>

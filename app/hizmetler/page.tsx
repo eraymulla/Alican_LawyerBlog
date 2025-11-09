@@ -38,8 +38,8 @@ export default function ServicesPage() {
               Güvenebileceğiniz Kapsamlı Hukuk Uzmanlığı
             </h1>
             <p className="mt-6 text-lg leading-8 text-text-muted-light dark:text-text-muted-dark">
-              Büromuz, geniş bir uygulama alanı yelpazesinde olağanüstü hukuk desteği sağlamaya ve 
-              müvekkillerimiz için mümkün olan en iyi sonuçları elde etmeye adanmıştır.
+              Geniş bir uygulama alanı yelpazesinde olağanüstü hukuk desteği sağlamaya ve 
+              müvekkillerim için mümkün olan en iyi sonuçları elde etmeye adanmışım.
             </p>
           </div>
         </div>
@@ -91,8 +91,8 @@ export default function ServicesPage() {
               Davanızı Tartışmaya Hazır mısınız?
             </h2>
             <p className="mt-4 text-lg leading-8 text-text-muted-light dark:text-text-muted-dark">
-              Hukuki ihtiyaçlarınızın gizli bir incelemesi için bugün bizimle iletişime geçin. 
-              Deneyimimiz rehberiniz olsun.
+              Hukuki ihtiyaçlarınızın gizli bir incelemesi için bugün benimle iletişime geçin. 
+              Deneyimim rehberiniz olsun.
             </p>
             <div className="mt-10 flex items-center justify-center">
               <Link href="/iletisim">
